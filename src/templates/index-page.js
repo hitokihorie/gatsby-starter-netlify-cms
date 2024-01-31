@@ -13,6 +13,17 @@ export const IndexPageTemplate = ({
 }) => {
   return (
     <div>
+    <h1
+      className="has-text-weight-bold is-size-1"
+      style={{
+        boxShadow: "0.5rem 0 0 #f6f8fa, -0.5rem 0 0 #f6f8fa",
+        backgroundColor: "#f6f8fa",
+        color: "#24292f",
+        padding: "1rem",
+      }}
+    >
+      {title}
+    </h1>
       <section className="section section--gradient">
         <div className="container">
           <div className="section">

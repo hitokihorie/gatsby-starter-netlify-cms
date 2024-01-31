@@ -36,6 +36,17 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+          <h1
+            className="has-text-weight-bold is-size-1"
+            style={{
+              boxShadow: "0.5rem 0 0 #f6f8fa, -0.5rem 0 0 #f6f8fa",
+              backgroundColor: "#f6f8fa",
+              color: "#24292f",
+              padding: "1rem",
+            }}
+          >
+            Contact Form
+          </h1>
         <section className="section">
           <div className="container">
             <div className="content">
