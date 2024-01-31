@@ -6,7 +6,7 @@ import Content, { HTMLContent } from "../components/Content";
 
 // eslint-disable-next-line
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content;
+  const PageContent = { contentComponent || Content };
 
   return (
   <h1
