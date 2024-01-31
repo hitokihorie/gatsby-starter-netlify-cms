@@ -77,7 +77,7 @@ const Navbar = class extends React.Component {
               <img
                 src={logo}
                 alt="MARIS"
-                style={{ width: "3rem", height: "3rem" }}
+                style={{ width: "88px" }}
               />
             </Link>
             </div>
