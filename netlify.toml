@@ -5,5 +5,8 @@
   NODE_VERSION = "14.15.0"
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
-
-
+[[redirects]]
+from = "https://maris-org.netlify.app/*"
+to = "https://maris.org/:splat"
+status = 301
+force = true
