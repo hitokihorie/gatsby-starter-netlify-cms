@@ -11,6 +11,8 @@ $black: #24292f
 
 .navbar .navbar-menu
   box-shadow: none !important
+  color: $white-ter
+  background-color: $black
 
 .content .taglist
   list-style: none
@@ -77,9 +79,9 @@ $black: #24292f
   width: 1.5rem
   height: 1.5rem
   fill: currentColor
-.navbar-brand .navbar-item.logo
+.navbar-brand .navbar-item .logo
   padding: 0 1rem
-footer.footer
+footer .footer
   padding: 3rem 0rem 0rem
   background-color: transparent
 
@@ -91,7 +93,6 @@ $menu-item-active-color: $blue-black-invert
 $menu-item-active-background-color: $blue-black-invert
 $menu-list-border-left: 1px solid $blue-black-invert
 $menu-label-color: $white-ter
-
 
 .menu-label
   font-size: 1em !important
@@ -121,10 +122,7 @@ $menu-label-color: $white-ter
   flex-basis: 35%
   margin: 0 1.5em 0 0
 
-
 @import "~bulma"
-
-
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail

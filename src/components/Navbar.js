@@ -72,7 +72,7 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link>
             </div>
-            <div className="navbar-end has-text-centered">
+            <div className="navbar-end has-text-centered icon">
             <Link to="/" className="navbar-end has-text-centered" title="Logo">
               <img src={logo} alt="MARIS" />
             </Link>
