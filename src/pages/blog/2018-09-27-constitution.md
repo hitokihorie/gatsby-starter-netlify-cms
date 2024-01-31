@@ -4,7 +4,8 @@ title: A Constitution to Establish the Maritime Archaeological Research Institut
 date: 2018-09-27T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/logo.svg
-description: 
+description: test
 tags:
   - legal
 ---
+test
