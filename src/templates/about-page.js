@@ -6,20 +6,9 @@ import Content, { HTMLContent } from "../components/Content";
 
 // eslint-disable-next-line
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = { contentComponent || Content };
+  const PageContent = contentComponent || Content;
 
   return (
-  <h1
-    className="has-text-weight-bold is-size-1"
-    style={{
-      boxShadow: "0.5rem 0 0 #f6f8fa, -0.5rem 0 0 #f6f8fa",
-      backgroundColor: "#f6f8fa",
-      color: "#24292f",
-      padding: "1rem",
-    }}
-  >
-    About Us
-  </h1>
     <section className="section section--gradient">
       <div className="container">
         <div className="columns">
@@ -48,6 +37,17 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
+      <h1
+        className="has-text-weight-bold is-size-1"
+        style={{
+          boxShadow: "0.5rem 0 0 #f6f8fa, -0.5rem 0 0 #f6f8fa",
+          backgroundColor: "#f6f8fa",
+          color: "#24292f",
+          padding: "1rem",
+        }}
+      >
+        About Us
+      </h1>
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
