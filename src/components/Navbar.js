@@ -74,7 +74,7 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">
             <Link to="/" className="navbar-end has-text-centered" title="Logo">
-              <img src={logo} alt="MARIS" style={{ width: "88px" }} />
+              <img src={logo} alt="MARIS" />
             </Link>
             </div>
           </div>
