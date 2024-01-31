@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "MARIS",
+    title: "Maritime Archaeological Research Institute, Solomon Islands",
     description:
       "",
   },
