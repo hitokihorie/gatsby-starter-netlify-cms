@@ -7,7 +7,7 @@ title: Where we are
 Mendana Avenue, Honiara, Solomon Islands
 
 ### Mailing:
-c/o Solomon Kitano Mendana Hotel, P.O. Box 384, Honiara, Solomon Islands
+c/o Solomon Kitano Mendana Hotel, P.O. Box 384, Honiara, SB
 
 ### Electronic:
 mail@﻿maris.org
