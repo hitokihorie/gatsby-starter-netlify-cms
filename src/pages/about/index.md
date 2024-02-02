@@ -1,6 +1,10 @@
 ---
 templateKey: about-page
 path: /about
-title: What we are
+title: Address
 ---
-We are an archaeological policy think tank under the jurisdiction of the Ministry of Culture and Tourism.
+###### Physical Address:
+Mendana Avenue, Honiara, Solomon Islands
+
+###### Mailing Address:
+c/o Solomon Kitano Mendana Hotel, P.O. Box 384, Honiara, Solomon Islands
