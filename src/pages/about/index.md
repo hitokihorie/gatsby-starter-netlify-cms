@@ -13,4 +13,4 @@ c/o Solomon Kitano Mendana Hotel, P.O. Box 384, Honiara, Solomon Islands
 mail@﻿maris.org
 
 ### Social:
-[h﻿ttps://bsky.app/m﻿aris.org](<h﻿ttps://bsky.app/m﻿aris.org>)
+[Bluesky](h﻿ttps://bsky.app/profile/maris.org)
