@@ -1,10 +1,16 @@
 ---
 templateKey: about-page
 path: /about
-title: Address
+title: Where we are
 ---
-###### Physical Address:
-Mendana Avenue, Honiara, Solomon Islands
+### Physical:
+Mendana Avenue, Honiara, Solomon Islands
 
-###### Mailing Address:
+### Postal:
 c/o Solomon Kitano Mendana Hotel, P.O. Box 384, Honiara, Solomon Islands
+
+### Electrical:
+mail@﻿maris.org
+
+### Social:
+[h﻿ttps://bsky.app/m﻿aris.org](<h﻿ttps://bsky.app/m﻿aris.org>)
