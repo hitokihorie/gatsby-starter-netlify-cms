@@ -6,10 +6,10 @@ title: Where we are
 ### Physical:
 Mendana Avenue, Honiara, Solomon Islands
 
-### Postal:
+### Mailing:
 c/o Solomon Kitano Mendana Hotel, P.O. Box 384, Honiara, Solomon Islands
 
-### Electronical:
+### Electronic:
 mail@﻿maris.org
 
 ### Social:
